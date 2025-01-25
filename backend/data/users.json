@@ -1,0 +1,58 @@
+{
+  "users": {
+    "vicky": {
+      "id": "vicky",
+      "name": "Vicky",
+      "email": "vicky@example.com",
+      "avatar": "https://ui-avatars.com/api/?name=Vicky",
+      "joinedDate": "2025-01-24T15:50:00.000Z",
+      "stats": {
+        "problemsSolved": 0,
+        "accuracyRate": 0,
+        "studyStreak": 0,
+        "timeSpent": "0h",
+        "totalAttempts": 0,
+        "totalProblems": 200,
+        "averageTime": 0,
+        "rank": 1000,
+        "lastUpdated": "2025-01-24T15:50:00.000Z"
+      }
+    },
+    "user123": {
+      "id": "user123",
+      "name": "John Smith",
+      "email": "john@example.com",
+      "avatar": "https://ui-avatars.com/api/?name=John+Smith",
+      "joinedDate": "2025-01-23T10:00:00.000Z",
+      "stats": {
+        "problemsSolved": 3,
+        "accuracyRate": 75.0,
+        "studyStreak": 2,
+        "timeSpent": "4h",
+        "totalAttempts": 4,
+        "totalProblems": 200,
+        "averageTime": 217.5,
+        "rank": 450,
+        "lastUpdated": "2025-01-24T09:05:00.000Z"
+      }
+    },
+    "user456": {
+      "id": "user456",
+      "name": "Sarah Johnson",
+      "email": "sarah@example.com",
+      "avatar": "https://ui-avatars.com/api/?name=Sarah+Johnson",
+      "joinedDate": "2025-01-23T12:00:00.000Z",
+      "stats": {
+        "problemsSolved": 2,
+        "accuracyRate": 66.7,
+        "studyStreak": 2,
+        "timeSpent": "3h",
+        "totalAttempts": 3,
+        "totalProblems": 200,
+        "averageTime": 233.3,
+        "rank": 600,
+        "lastUpdated": "2025-01-24T10:05:00.000Z"
+      }
+    }
+  }
+}

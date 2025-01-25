@@ -1,0 +1,48 @@
+{
+  "reviews": {
+    "1": [
+      {
+        "user_id": "user123",
+        "review": "Great calculus problem! The step-by-step explanation really helped me understand polynomial differentiation better.",
+        "rating": 5,
+        "timestamp": "2025-01-23T14:35:00.000Z"
+      },
+      {
+        "user_id": "user456",
+        "review": "Clear problem statement, but could use more examples for similar problems.",
+        "rating": 4,
+        "timestamp": "2025-01-23T16:05:00.000Z"
+      }
+    ],
+    "2": [
+      {
+        "user_id": "user123",
+        "review": "Tricky trigonometric integration problem. The hints were very helpful.",
+        "rating": 4,
+        "timestamp": "2025-01-23T15:05:00.000Z"
+      },
+      {
+        "user_id": "user456",
+        "review": "Found this quite challenging. Would be great to have more intermediate steps shown.",
+        "rating": 3,
+        "timestamp": "2025-01-23T16:35:00.000Z"
+      }
+    ],
+    "4": [
+      {
+        "user_id": "user123",
+        "review": "Nice basic integration problem. Perfect for practicing exponential functions.",
+        "rating": 5,
+        "timestamp": "2025-01-24T09:05:00.000Z"
+      }
+    ],
+    "5": [
+      {
+        "user_id": "user456",
+        "review": "Good practice for logarithmic integration. The solution was well explained.",
+        "rating": 4,
+        "timestamp": "2025-01-24T10:05:00.000Z"
+      }
+    ]
+  }
+}

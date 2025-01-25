@@ -1,0 +1,14 @@
+{
+  "user1": {
+    "stats": {
+      "problemsSolved": 14,
+      "accuracyRate": 100.0,
+      "studyStreak": 2,
+      "timeSpent": "0",
+      "correctSolved": 14,
+      "totalPoints": 10,
+      "lastUpdated": "2025-01-23T15:32:24.828895"
+    },
+    "achievements": []
+  }
+}
